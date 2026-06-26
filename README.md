@@ -237,25 +237,14 @@ GET /api/analytics
 
 ## Screenshots
 
-> Add screenshots here.
+> <img width="1920" height="973" alt="image" src="https://github.com/user-attachments/assets/0b11c63f-c68c-4e84-ba85-ec5de8938c96" />
+<img width="1920" height="973" alt="image" src="https://github.com/user-attachments/assets/bd79e9d5-a43a-4487-b5eb-10d5ac2441ea" />
+<img width="1920" height="973" alt="image" src="https://github.com/user-attachments/assets/47988819-d9db-4f1f-966f-43ee5a9ba17e" />
+<img width="1920" height="973" alt="image" src="https://github.com/user-attachments/assets/3f80eba4-45e9-48bd-aa6c-0708409e7971" />
 
-Example:
 
-```
-screenshots/
 
-login.png
 
-dashboard.png
-
-leads.png
-
-contacts.png
-
-analytics.png
-```
-
----
 
 ## Future Improvements
 
